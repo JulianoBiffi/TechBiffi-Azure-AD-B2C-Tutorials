@@ -1,7 +1,7 @@
 <br />
 <div align="center">
-  <a href="https://techbiffi.com">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+  <a href="https://techbiffi.com" target="_blank">
+    <img src="images/logo.jpg" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Welcome to Tech Biffi Azure AD B2C Repository!</h3>
@@ -11,6 +11,6 @@
     <br />
     <br />
     <br />
-    <a href="https://techbiffi.com"><strong>Visit my website »</strong></a>
+    <a href="https://techbiffi.com" target="_blank"><strong>Visit my website »</strong></a>
   </p>
 </div>
